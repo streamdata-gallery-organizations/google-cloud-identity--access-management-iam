@@ -1,6 +1,6 @@
 title: Streamdata Gallery
 url: google-cloud-identity--access-management-iam.api.streamdata.gallery
-tag: Temmplate
+tag: Google Cloud Identity & Access Management (IAM)
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
 github_user: streamdata-gallery-organizations
