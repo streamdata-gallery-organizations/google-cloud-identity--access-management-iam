@@ -4,7 +4,7 @@ url: google-cloud-identity-access-management.streamdata.gallery
 tag: Google Cloud Identity Access Management
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-entities
+github_user: streamdata-gallery-topics
 github_repo: google-cloud-identity-access-management
 github_branch: master
 collections:
